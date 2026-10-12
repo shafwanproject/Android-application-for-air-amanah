@@ -50,16 +50,16 @@ For professional inquiries or collaboration, please connect with me on LinkedIn.
 ## Application Screenshots
 
 ### Business Dashboard
-![Air Amanah Dashboard](screenshots/dashboard.png)
+![Air Amanah Dashboard](screenshots/dashboard.jpeg)
 
 ### Order Management
-![Order Management](screenshots/order-management.png)
+![Order Management](screenshots/order-management.jpeg)
 
 ### Create Order
-![Create Order](screenshots/add-order.png)
+![Create Order](screenshots/add-order.jpeg)
 
 ### Customer Management
-![Customer Management](screenshots/customer-management.png)
+![Customer Management](screenshots/customer-management.jpeg)
 
 ### Business Reports
-![Business Reports](screenshots/business-reports.png)
+![Business Reports](screenshots/business-reports.jpeg)
