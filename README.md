@@ -46,3 +46,20 @@ For professional inquiries or collaboration, please connect with me on LinkedIn.
 ---
 
 *Note: This repository presents project documentation and application screenshots. It does not contain the application's source code.*
+
+## Application Screenshots
+
+### Business Dashboard
+![Air Amanah Dashboard](screenshots/dashboard.png)
+
+### Order Management
+![Order Management](screenshots/order-management.png)
+
+### Create Order
+![Create Order](screenshots/add-order.png)
+
+### Customer Management
+![Customer Management](screenshots/customer-management.png)
+
+### Business Reports
+![Business Reports](screenshots/business-reports.png)
